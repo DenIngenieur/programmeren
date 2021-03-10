@@ -1,6 +1,6 @@
 # Git & GitHub
 * [GitHub](https://github.com/ "GitHub") - maar dat had je zelf al ontdekt...
-* [Forum](https://github.com/DenIngenieur/programmeren/discussions "Forum")
+* [Forum omtrent programmeren](https://github.com/DenIngenieur/programmeren/discussions "Forum omtrent programmeren")
 
 ## Downloads:
 * [Git](https://git-scm.com/ "Git download")
